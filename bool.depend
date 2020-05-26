@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1590520442 source:c:\users\Владимир\desktop\Программирование\2 семестр\bool tree\bool.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sstream>
+
